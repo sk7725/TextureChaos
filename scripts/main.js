@@ -9,6 +9,8 @@ a.region.texture = b.region.texture;
 b.region.set(c.u, c.v, c.u2, c.v2);
 b.region.texture = c.texture;
 c = null;
+  a.icon(Cicon.medium).set(a.region);
+b.icon(Cicon.medium).set(b.region);
 }
 
 //swap(Blocks.copperWall, Blocks.router);
