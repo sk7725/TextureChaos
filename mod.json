@@ -1,0 +1,9 @@
+{
+	"name": "texture-chaos",
+	"displayName": "Texture Chaos",
+	"author": "[royal]sk7725[]",
+	"description": "Shuffles all Mindustry block textures.",
+	"version": "0.0",
+	"hidden": true,
+	"minGameVersion": 108
+}
